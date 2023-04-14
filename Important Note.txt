@@ -1,0 +1,6 @@
+This code is a PHP script that displays the current weather and a 5-day weather forecast for a given city using the OpenWeatherMap API. The user enters the city name in a search bar and the script retrieves the weather information from the API and displays it on the page.
+
+For Running this code we have to follow this rules:
+
+1. for hosting this php code we have to place this folder in the htdocs folder of the xammp.
+2. After that we have to run the xammp apache module and go to admin local host page and search for http://localhost/web_assignment_3/index.php in the search bar then we can run the project.
